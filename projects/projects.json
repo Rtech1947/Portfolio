@@ -1,0 +1,42 @@
+[
+  {
+    "name": "TextUtills",
+    "desc": "TextUtils is a simple and user-friendly text manipulation tool built with React. It allows you to easily convert text to uppercase, lowercase, and remove spaces etc ",
+    "image": "textUtills",
+    "category": "react",
+    "links": {
+      "view": "https://rtech1947.github.io/TextUtills/",
+      "code": "https://github.com/Rtech1947/TextUtills"
+    }
+  },
+  {
+    "name": "Snake Game",
+    "desc": "Expertly engineered and integrated the fundamental game mechanics, encompassing fluid snake movement, progressive length augmentation, and reliable collisiondetection.",
+    "image": "SnakeGame",
+    "category": "basic",
+    "links": {
+      "view": "https://rtech1947.github.io/snake-game/",
+      "code": "https://github.com/Rtech1947/snake-game"
+    }
+  },
+  {
+    "name": "Car Parking System",
+    "desc": "This project determines that a vechile is inside or outside the parking. It stores the time zone of parking peroid safe and securely.",
+    "image": "CarParking",
+    "category": "angular",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "TechBook",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "Techbook",
+    "category": "javaServlet",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Rtech1947/Tech_Book"
+    }
+  }
+]
