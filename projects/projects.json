@@ -31,7 +31,7 @@
   },
   {
     "name": "TechBook",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "desc": "Revamped and executed 'Techbook,' an innovative platform that fosters dynamic discussions among diverse users worldwide, with a focus on their individual technology interests.",
     "image": "Techbook",
     "category": "javaServlet",
     "links": {
